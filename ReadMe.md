@@ -34,6 +34,9 @@ It is the beginning of 2019. I like to put together all repository together and 
 **Object-oriented design**<br>
 [Object-oriented design](https://github.com/jianminchen/Object-oriented-Design)<br>
 
+**Algorithms by topics**<br>
+[Algorithms by topics](https://github.com/jianminchen/AlgorithmsByTopics)<br>
+
 **System design**<br>
 [System design](https://github.com/jianminchen/System-design)<br>
 
