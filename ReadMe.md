@@ -20,6 +20,13 @@
 **HackerrankJulia**<br>
 [Hackerrank Julia](https://github.com/jianminchen/Hackerrank-Julia)<br>
 
+**Conquer Leetcode hard level algorithms**<br>
+[Conquer hard level algorithms](https://github.com/jianminchen/Conquer-Leetcode-hard-level-algorithms)<br>
+
+**Object-oriented design**<br>
+[Object-oriented design](https://github.com/jianminchen/Object-oriented-Design)<br>
+
+
 **PersonalFinanceJulia**<br>
 [Personal Finance Julia](https://github.com/jianminchen/PersonalFinanceJulia)<br>
 
