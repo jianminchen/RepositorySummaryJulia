@@ -16,6 +16,9 @@ It is the beginning of 2019. I like to put together all repository together and 
 **Algorithm and data structure coaching - May - June 2018 Two weeks**<br>
 [coaching from Tsinghua](https://github.com/jianminchen/CoachingFromTsinghua)<br>
 
+**100 hard level algorithms 2018 summer campaign**<br>
+[100 hard level algorithms 2018 summer campaign](https://github.com/jianminchen/100-hard-level-algorithms-2018-summer-campaign)<br>
+
 **LeetcodeJulia**<br>
 [Leetcode Julia](https://github.com/jianminchen/Leetcode_Julia)<br>
 
