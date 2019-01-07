@@ -1,3 +1,11 @@
+
+
+**Personal Legal Julia**<br>
+[Personal Legal Julia](https://github.com/jianminchen/PersonalLegalJulia)<br>
+
+**Road to C# Excellence**<br>
+[Road to C# Excellence](https://github.com/jianminchen/RoadToCSharpExcellence)<br>
+
 **Pramp mock interviews**<br>
 [Pramp mock interviews](https://github.com/jianminchen/Mock-interviews)<br>
 
