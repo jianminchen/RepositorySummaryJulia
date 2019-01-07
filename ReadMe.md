@@ -37,6 +37,9 @@ It is the beginning of 2019. I like to put together all repository together and 
 **Algorithms by topics**<br>
 [Algorithms by topics](https://github.com/jianminchen/AlgorithmsByTopics)<br>
 
+**Julia coding blog gists**<br>
+[Julia coding blog gists](https://github.com/jianminchen/juliaCodingBlogGists)<br>
+
 **System design**<br>
 [System design](https://github.com/jianminchen/System-design)<br>
 
