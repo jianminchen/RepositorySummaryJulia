@@ -43,6 +43,12 @@ It is the beginning of 2019. I like to put together all repository together and 
 **System design**<br>
 [System design](https://github.com/jianminchen/System-design)<br>
 
+**Sudoku solver**<br>
+[Sudoku solver](https://github.com/jianminchen/sudokuSolver)<br>
+
+**Algorithm practice 2015**<br>
+[Algorithm practice 2015](https://github.com/jianminchen/Algorithms_Julia_practice_starting2015)<br>
+
 **PersonalFinanceJulia**<br>
 [Personal Finance Julia](https://github.com/jianminchen/PersonalFinanceJulia)<br>
 
