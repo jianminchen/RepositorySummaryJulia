@@ -15,6 +15,7 @@ It is the beginning of 2019. I like to put together all repository together and 
 
 **Algorithm and data structure coaching - May - June 2018 Two weeks**<br>
 [coaching from Tsinghua](https://github.com/jianminchen/CoachingFromTsinghua)<br>
+
 **LeetcodeJulia**<br>
 [Leetcode Julia](https://github.com/jianminchen/Leetcode_Julia)<br>
 
@@ -37,7 +38,7 @@ It is the beginning of 2019. I like to put together all repository together and 
 [Landlord Julia](https://github.com/jianminchen/LandlordJulia)<br>
 **January 7, 2019**<br>
 
-It is a new year. It is the day one for me to open a repository called landlordJulia. I like to push myself to get organized and learn more about personal finance and serve people better as a landlord. 
+It is the beginning of 2019. It is the day one for me to open a repository called landlordJulia. I like to push myself to get organized and learn more about personal finance and serve people better as a landlord. 
 
 **Personal Legal Julia**<br>
 [Personal Legal Julia](https://github.com/jianminchen/PersonalLegalJulia)<br>
