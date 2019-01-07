@@ -12,6 +12,8 @@
 **Interviewer on interviewing.io**<br>
 [Interviewer on interviewing.io](https://github.com/jianminchen/interviewer-Julia)<br>
 
+**Algorithm and data structure coaching - May - June 2018 Two weeks**<br>
+[coaching from Tsinghua](https://github.com/jianminchen/CoachingFromTsinghua)<br>
 **LeetcodeJulia**<br>
 [Leetcode Julia](https://github.com/jianminchen/Leetcode_Julia)<br>
 
