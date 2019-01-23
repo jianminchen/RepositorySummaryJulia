@@ -5,11 +5,11 @@ It is the beginning of 2019. I like to put together all repository together and 
 [Algorithm Practice](https://github.com/jianminchen/AlgorithmsPractice)<br>
 
 **Road to C# Excellence**<br>
-I am still a full time programmer. I like to find creative ways to challenge myself as a coder and also a designer. I like to learn how the language is designed in so many ways. Stay tuned. One day I will rush to learn more, and then I will write down more on the repository. <br>
+To master C# programming language is so interesting and challenge journey, I like to write down my efforts and push myself to work hard. <br>
 [Road to C# Excellence](https://github.com/jianminchen/RoadToCSharpExcellence)<br>
 
 **Pramp mock interviews**<br>
-I chose to work on same set of algorithms 10 times. I understand that each round of interview I had different concerns. The experience was so rewarding. <br>
+I praticed mock interivews on pramp.com over 300 sessions, each session lasts one hour. I chose to work on same set of algorithms 10 times. Amazing learning experience, I can tell the difference from the beginning and the end. <br>
 [Pramp mock interviews](https://github.com/jianminchen/Mock-interviews)<br>
 
 **Interviewer on interviewing.io**<br>
