@@ -29,6 +29,7 @@ I started as an interviewer in January 2018. I could not have chance to be inter
 [Leetcode algorithm practice 2015](https://github.com/jianminchen/Leetcode_C-)<br>
 
 **HackerrankJulia**<br>
+I played over 20 contests, and I won one gold, two silver, eight bronze medals. <br>
 [Hackerrank Julia](https://github.com/jianminchen/Hackerrank-Julia)<br>
 
 **Conquer Leetcode hard level algorithms**<br>
@@ -53,9 +54,12 @@ I started as an interviewer in January 2018. I could not have chance to be inter
 [Algorithm practice 2015](https://github.com/jianminchen/Algorithms_Julia_practice_starting2015)<br>
 
 **PersonalFinanceJulia**<br>
+I like to be a good problem solver. I decided to start to work on personal finance and learn by myself starting from Nov. 2018. I like to have my own home instead of renting in Vancouver area, so I decide to work on my personal finance and figure out why I can build wealth and grow rich. <br>
 [Personal Finance Julia](https://github.com/jianminchen/PersonalFinanceJulia)<br>
 
 **LanlordJulia**<br>
+It was so hard for me to take my own case to work on appeal for leave in Canadian Federal court starting from January 2009. 
+
 [Landlord Julia](https://github.com/jianminchen/LandlordJulia)<br>
 **January 7, 2019**<br>
 
