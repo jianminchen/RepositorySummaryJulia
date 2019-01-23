@@ -5,12 +5,15 @@ It is the beginning of 2019. I like to put together all repository together and 
 [Algorithm Practice](https://github.com/jianminchen/AlgorithmsPractice)<br>
 
 **Road to C# Excellence**<br>
+I am still a full time programmer. I like to find creative ways to challenge myself as a coder and also a designer. I like to learn how the language is designed in so many ways. Stay tuned. One day I will rush to learn more, and then I will write down more on the repository. <br>
 [Road to C# Excellence](https://github.com/jianminchen/RoadToCSharpExcellence)<br>
 
 **Pramp mock interviews**<br>
+I chose to work on same set of algorithms 10 times. I understand that each round of interview I had different concerns. The experience was so rewarding. <br>
 [Pramp mock interviews](https://github.com/jianminchen/Mock-interviews)<br>
 
 **Interviewer on interviewing.io**<br>
+I started as an interviewer in January 2018. I could not have chance to be interviewed, and my rating is below the average. I just push myself to learn how to be a good interviewer in the community.<br>
 [Interviewer on interviewing.io](https://github.com/jianminchen/interviewer-Julia)<br>
 
 **Algorithm and data structure coaching - May - June 2018 Two weeks**<br>
