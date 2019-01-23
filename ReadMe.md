@@ -54,7 +54,7 @@ I played over 20 contests, and I won one gold, two silver, eight bronze medals. 
 [Algorithm practice 2015](https://github.com/jianminchen/Algorithms_Julia_practice_starting2015)<br>
 
 **PersonalFinanceJulia**<br>
-I like to be a good problem solver. I decided to start to work on personal finance and learn by myself starting from Nov. 2018. I like to have my own home instead of renting in Vancouver area, so I decide to work on my personal finance and figure out why I can build wealth and grow rich. <br>
+I like to be a good problem solver. I decided to start to work on personal finance and learn by myself starting from Nov. 2018. I like to have my own home instead of renting in Vancouver area, so I decide to work on my personal finance and figure out how I can build wealth and grow rich. I like to learn how to build good personal finance habits. <br>
 [Personal Finance Julia](https://github.com/jianminchen/PersonalFinanceJulia)<br>
 
 **LanlordJulia**<br>
