@@ -58,13 +58,12 @@ I like to be a good problem solver. I decided to start to work on personal finan
 [Personal Finance Julia](https://github.com/jianminchen/PersonalFinanceJulia)<br>
 
 **LanlordJulia**<br>
-It was so hard for me to take my own case to work on appeal for leave in Canadian Federal court starting from January 2009. 
-
 [Landlord Julia](https://github.com/jianminchen/LandlordJulia)<br>
 **January 7, 2019**<br>
 
 It is the beginning of 2019. It is the day one for me to open a repository called landlordJulia. I like to push myself to get organized and learn more about personal finance and serve people better as a landlord. 
 
 **Personal Legal Julia**<br>
+It was so hard for me to take my own case to work on appeal for leave in Canadian Federal court starting from January 2009.<br>
 [Personal Legal Julia](https://github.com/jianminchen/PersonalLegalJulia)<br>
 
